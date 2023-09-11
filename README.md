@@ -8,7 +8,7 @@ Taking new challenges and learning from it. Currently working to upskill my Comp
 
 * 🖥️  See my portfolio at [MY Portfolio](http://bit.ly/portfolio_usman)
 * ✉️  You can contact me at [LinkedIn](mailto:https://www.linkedin.com/in/usman-rangrez-125a07ab/)
-* 🧠  I'm learning ReactJs.
+* 🧠  I'm learning FullStack Web Development.
 * 🤝  I'm open to collaborating on FULL STACK PROJECTS
 
 ### Skills
