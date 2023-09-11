@@ -7,7 +7,7 @@ Front-End Web Developer
 Taking new challenges and learning from it. Currently working to upskill my Competitive coding skill and exploring more about Full Stack Web Development.
 
 * 🖥️  See my portfolio at [MY Portfolio](http://bit.ly/portfolio_usman)
-* ✉️  You can contact me at [https://www.linkedin.com/in/usman-rangrez-125a07ab/](mailto:https://www.linkedin.com/in/usman-rangrez-125a07ab/)
+* ✉️  You can contact me at [LinkedIn](mailto:https://www.linkedin.com/in/usman-rangrez-125a07ab/)
 * 🧠  I'm learning ReactJs.
 * 🤝  I'm open to collaborating on FULL STACK PROJECTS
 
