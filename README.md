@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmanrangrez&label=Profile%20views&color=0e75b6&style=flat" alt="usmanrangrez" /> </p>
 
-- 🔭 I’m currently working on FullStack Development **Full Stack Web Development**
+- 🔭 I’m currently working on  **Full Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://usmaanrangrez.netlify.app/](https://usmaanrangrez.netlify.app/)
 
