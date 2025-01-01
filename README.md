@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Usman</h1>
-<h3 align="center">I'm a developer with a passion for building scalable and efficient systems. I began my career as a frontend developer but soon transitioned to backend development, where I now focus on crafting scalable backend solutions while maintaining a strong connection with frontend technologies. Over the years, I've had the opportunity to work with a variety of tech stacks, including monolith and various microservices architectures. I'm constantly looking for ways to improve application performance and scalability, and I enjoy diving into both development and DevOps practices. In my journey, I've worked with both small teams and large organizations, collaborating on projects that have shaped my understanding of full-stack development, system architecture, and the importance of efficient workflows.</h3>
+<h3 align="center">I'm a developer with a passion for building scalable and efficient systems. Over the years, I've had the opportunity to work with a variety of tech stacks, including monolith and various microservices architectures. I'm constantly looking for ways to improve application performance and scalability.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmanrangrez&label=Profile%20views&color=0e75b6&style=flat" alt="usmanrangrez" /> </p>
 
