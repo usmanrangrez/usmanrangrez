@@ -26,8 +26,8 @@ Currently pursuing an M.Sc. in Digital Transformation at Fachhochschule Dortmund
 **Frontend**
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white)
-![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=plastic&logo=chakraui&logoColor=white)
+![Redux](https://img.shields.io/badge/vue-%23593d88.svg?style=plastic&logo=redux&logoColor=white)
+
 
 **Databases**
 
@@ -35,7 +35,7 @@ Currently pursuing an M.Sc. in Digital Transformation at Fachhochschule Dortmund
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=plastic&logo=Sequelize&logoColor=white)
+
 
 **Infrastructure & DevOps**
 
@@ -51,26 +51,4 @@ Currently pursuing an M.Sc. in Digital Transformation at Fachhochschule Dortmund
 
 ---
 
-## Experience
 
-**Software Developer — New Street Technologies, Bengaluru** (Feb 2024 – May 2025)
-
-Fintech startup. Worked on a microfinance platform providing loans and financial access to underserved communities. Key work included migrating 800K users with zero downtime, building a credit-check microservice for real-time financial decisioning, VAPT remediation resolving 15+ critical vulnerabilities, achieving ISO 27001 compliance, and contributing to 10M EUR in loan disbursements in a single quarter.
-
-**SDE Intern — 4 Edge IT Solutions** (Nov 2022 – Dec 2022)
-
-Built JWT-based authentication with RBAC, designed webhook-driven multi-service integrations, and migrated frontend to Chakra UI.
-
----
-
-## Projects
-
-**SmartWarehouse** — 3D Warehouse Management System  
-Real-time warehouse simulation in Java and JavaFX with multi-threaded architecture, thread-safe inventory operations, deadlock detection, and a terminal-based monitoring UI.
-
-**StockFlow** — Inventory and Billing Software  
-Modular full-stack application with RBAC, dual REST and GraphQL API architecture, webhook-driven third-party integrations, and an exam engine with automated grading pipelines.  
-[github.com/usmanrangrez/BrainBloom](https://github.com/usmanrangrez/BrainBloom)
-
-**Monexo** — Loan Processing Platform  
-PII encryption at rest using pgcrypto, bidirectional MongoDB cluster sync for disaster recovery, and a high-throughput Aadhaar masking system processing 1000+ documents daily using Node.js Worker Threads.
