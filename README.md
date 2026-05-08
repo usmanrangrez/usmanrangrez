@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I'm a developer with a passion for building scalable and efficient systems. Over the years, I've had the opportunity to work with a variety of tech stacks, including monolith and various microservices architectures. I'm constantly looking for ways to improve application performance and scalability.
 
 
