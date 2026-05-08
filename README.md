@@ -26,7 +26,7 @@ Currently pursuing an M.Sc. in Digital Transformation at Fachhochschule Dortmund
 **Frontend**
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/vue-%23593d88.svg?style=plastic&logo=redux&logoColor=white)
+![Vue](https://img.shields.io/badge/vue-%23593d88.svg?style=plastic&logo=vue&logoColor=white)
 
 
 **Databases**
