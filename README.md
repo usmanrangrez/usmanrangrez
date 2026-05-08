@@ -6,7 +6,7 @@ I'm **Usman Rangrez**, a software engineer passionate about building scalable, r
 
  Previously, I worked at [New Street Technologies](https://newstreettech.com/?utm_source=chatgpt.com), where I contributed to fintech platforms serving **800K+ users**, built systems for **real-time credit decisioning**, and worked on infrastructure aligned with **ISO 27001** standards.
 
-⚙️ My interests revolve around:
+ My interests revolve around:
 
 * Distributed systems
 * Backend architecture
