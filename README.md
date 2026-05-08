@@ -2,9 +2,9 @@
 
 I'm **Usman Rangrez**, a software engineer passionate about building scalable, reliable, and secure systems that solve real-world problems.
 
-🎓 I completed my **B.Tech in Computer Science** from SRM Institute of Science and Technology and I'm currently pursuing an **M.Sc. in Digital Transformation** at Fachhochschule Dortmund.
+ I completed my **B.Tech in Computer Science** from SRM Institute of Science and Technology and I'm currently pursuing an **M.Sc. in Digital Transformation** at Fachhochschule Dortmund.
 
-💼 Previously, I worked at [New Street Technologies](https://newstreettech.com/?utm_source=chatgpt.com), where I contributed to fintech platforms serving **800K+ users**, built systems for **real-time credit decisioning**, and worked on infrastructure aligned with **ISO 27001** standards.
+ Previously, I worked at [New Street Technologies](https://newstreettech.com/?utm_source=chatgpt.com), where I contributed to fintech platforms serving **800K+ users**, built systems for **real-time credit decisioning**, and worked on infrastructure aligned with **ISO 27001** standards.
 
 ⚙️ My interests revolve around:
 
@@ -15,18 +15,18 @@ I'm **Usman Rangrez**, a software engineer passionate about building scalable, r
 * AI-powered production applications
 * System design & scalability
 
-🚀 I enjoy turning complex ideas into practical engineering solutions and continuously exploring how technology can drive meaningful digital transformation.
+ I enjoy turning complex ideas into practical engineering solutions and continuously exploring how technology can drive meaningful digital transformation.
 
-🌱 Currently learning more about:
+ Currently learning more about:
 
 * Advanced system design patterns
 * Cloud orchestration & observability
 * AI integration in enterprise systems
 * Organizational digital transformation strategies
 
-🤝 Open to collaborations, open-source projects, and interesting engineering discussions.
+ Open to collaborations, open-source projects, and interesting engineering discussions.
 
-📫 Connect with me on
+ Connect with me on
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/usman-rangrez-125a07ab)
 
 ---
