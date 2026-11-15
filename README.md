@@ -1,33 +1,32 @@
-# Hi there 👋
+# Hi, I'm Usman 👋
 
-I'm **Usman Rangrez**, a software engineer passionate about building scalable, reliable, and secure systems that solve real-world problems.
+Software engineer focused on security, architecture and AI. I'm doing an **M.Sc. in Digital Transformation** at FH Dortmund, after a B.Tech in Computer Science at SRM Institute of Science and Technology.
 
- I completed my **B.Tech in Computer Science** from SRM Institute of Science and Technology and I'm currently pursuing an **M.Sc. in Digital Transformation** at Fachhochschule Dortmund.
+At [New Street Technologies](https://newstreettech.com), an RBI-regulated fintech, I:
 
- Previously, I worked at [New Street Technologies](https://newstreettech.com/?utm_source=chatgpt.com), where I contributed to fintech platforms serving **800K+ users**, built systems for **real-time credit decisioning**, and worked on infrastructure aligned with **ISO 27001** standards.
+- led a **zero-downtime migration of 800K users** from MongoDB to PostgreSQL
+- ran a VAPT cycle that closed **15+ critical vulnerabilities** and took the platform to **ISO 27001** compliance
+- built systems for **real-time credit decisioning** and encrypted customer data at rest
 
- My interests revolve around:
+I like modernizing and migrating legacy code, designing systems that hold up under load, and building security in from the start. Lately most of my side projects are multi-agent LLM systems.
 
-* Distributed systems
-* Backend architecture
-* Cloud-native infrastructure
-* Event-driven systems
-* AI-powered production applications
-* System design & scalability
+📄 IEEE publication · 🏆 Runner-up, JPMorgan Chase hackathon
 
- I enjoy turning complex ideas into practical engineering solutions and continuously exploring how technology can drive meaningful digital transformation.
+🌐 [usmanrangrez.dev](https://usmanrangrez.dev) · 💼 [LinkedIn](https://linkedin.com/in/usmanrangrez) · ✉️ usmaanrangrez@gmail.com
 
- Currently learning more about:
+---
 
-* Advanced system design patterns
-* Cloud orchestration & observability
-* AI integration in enterprise systems
-* Organizational digital transformation strategies
+## Projects
 
- Open to collaborations, open-source projects, and interesting engineering discussions.
+- **[Multi-Agent AI Research System](https://github.com/usmanrangrez/Multi-Agent-AI-Research-System)**: four agents split a research question. One searches, one extracts, one writes, and one checks the report against a rubric. Python, LangChain, LangGraph, Gemini, Docker.
+- **[Park & Charge](https://github.com/usmanrangrez/dmsa-sose2026-NullPointers)**: platform for sharing private EV chargers, built as five microservices. I owned the station service (Eureka, circuit breakers, JWT).
+- **[BrainBloom](https://github.com/usmanrangrez/BrainBloom)**: learning platform where professors run courses and exams. I built the backend and database (Node.js, MongoDB, REST and GraphQL).
 
- Connect with me on
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/usman-rangrez-125a07ab)
+## Currently learning
+
+- Advanced system design patterns
+- Cloud orchestration and observability
+- AI integration in enterprise systems
 
 ---
 
@@ -35,54 +34,53 @@ I'm **Usman Rangrez**, a software engineer passionate about building scalable, r
 
 ### Languages
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Python](https://img.shields.io/badge/pyhon-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Backend & Frameworks
 
-![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Frontend
 
-![React](https://img.shields.io/badge/react-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/vue.js-35495E?style=for-the-badge\&logo=vuedotjs\&logoColor=4FC08D)
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
+### AI
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
 
 ### Databases & Caching
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge\&logo=redis\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
 
 ### DevOps & Infrastructure
 
-![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
 ### Messaging & Streaming
 
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge\&logo=apachekafka)
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge\&logo=rabbitmq\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ---
 
 ## GitHub Stats
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usmanrangrez\&theme=tokyonight)](https://github.com/usmanrangrez)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usmanrangrez&theme=tokyonight)](https://github.com/usmanrangrez)
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=usmanrangrez\&theme=tokyonight)](https://github.com/usmanrangrez)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=usmanrangrez\&theme=tokyonight)](https://github.com/usmanrangrez)
-
----
-
-![](https://komarev.com/ghpvc/?username=usmanrangrez\&style=for-the-badge)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=usmanrangrez&theme=tokyonight)](https://github.com/usmanrangrez)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=usmanrangrez&theme=tokyonight)](https://github.com/usmanrangrez)
