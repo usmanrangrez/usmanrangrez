@@ -2,12 +2,6 @@
 
 Software engineer focused on security, architecture and AI. I'm doing an **M.Sc. in Digital Transformation** at FH Dortmund, after a B.Tech in Computer Science at SRM Institute of Science and Technology.
 
-At [New Street Technologies](https://newstreettech.com), an RBI-regulated fintech, I:
-
-- led a **zero-downtime migration of 800K users** from MongoDB to PostgreSQL
-- ran a VAPT cycle that closed **15+ critical vulnerabilities** and took the platform to **ISO 27001** compliance
-- built systems for **real-time credit decisioning** and encrypted customer data at rest
-
 I like modernizing and migrating legacy code, designing systems that hold up under load, and building security in from the start. Lately most of my side projects are multi-agent LLM systems.
 
 📄 IEEE publication · 🏆 Runner-up, JPMorgan Chase hackathon
@@ -55,6 +49,7 @@ I like modernizing and migrating legacy code, designing systems that hold up und
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![LangGraph](https://img.shields.io/badge/mcp-1C3C3C?style=for-the-badge&mcp=&logoColor=white)
 
 ### Databases & Caching
 
