@@ -1,12 +1,12 @@
 # Hi, I'm Usman 👋
 
-Software engineer focused on security, architecture and AI. I'm doing an **M.Sc. in Digital Transformation** at FH Dortmund, after a B.Tech in Computer Science at SRM Institute of Science and Technology.
+Software engineer focused on security, architecture and AI. I'm doing an M.Sc. in Digital Transformation at FH Dortmund, after a B.Tech in Computer Science at SRM Institute of Science and Technology.
 
-I like modernizing and migrating legacy code, designing systems that hold up under load, and building security in from the start. Lately most of my side projects are multi-agent LLM systems.
+I like modernizing and migrating legacy code, designing systems that hold up under load, and building security in from the start. Most of my recent side projects are multi-agent LLM systems.
 
-📄 IEEE publication · 🏆 Runner-up, JPMorgan Chase hackathon
+I've published a [paper in IEEE Xplore](https://ieeexplore.ieee.org/document/10581124) and came second at a JPMorgan Chase hackathon.
 
-🌐 [usmanrangrez.dev](https://usmanrangrez.dev) · 💼 [LinkedIn](https://linkedin.com/in/usmanrangrez) · ✉️ usmaanrangrez@gmail.com
+[usmanrangrez.dev](https://usmanrangrez.dev) · [LinkedIn](https://linkedin.com/in/usmanrangrez) · usmaanrangrez@gmail.com
 
 ---
 
@@ -49,7 +49,6 @@ I like modernizing and migrating legacy code, designing systems that hold up und
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
-![LangGraph](https://img.shields.io/badge/mcp-1C3C3C?style=for-the-badge&mcp=&logoColor=white)
 
 ### Databases & Caching
 
