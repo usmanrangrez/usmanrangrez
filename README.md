@@ -10,12 +10,6 @@ I've published a [paper in IEEE Xplore](https://ieeexplore.ieee.org/document/105
 
 ---
 
-## Projects
-
-- **[Multi-Agent AI Research System](https://github.com/usmanrangrez/Multi-Agent-AI-Research-System)**: four agents split a research question. One searches, one extracts, one writes, and one checks the report against a rubric. Python, LangChain, LangGraph, Gemini, Docker.
-- **[Park & Charge](https://github.com/usmanrangrez/dmsa-sose2026-NullPointers)**: platform for sharing private EV chargers, built as five microservices. I owned the station service (Eureka, circuit breakers, JWT).
-- **[BrainBloom](https://github.com/usmanrangrez/BrainBloom)**: learning platform where professors run courses and exams. I built the backend and database (Node.js, MongoDB, REST and GraphQL).
-
 ## Currently learning
 
 - Advanced system design patterns
