@@ -1,5 +1,3 @@
-#### Hallo!
-
 ## About Me
 
 Software engineer focused on security, architecture and AI.
