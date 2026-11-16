@@ -1,5 +1,7 @@
 # Hallo!
 
+## About Me
+
 Software engineer focused on security, architecture and AI.
 
 I like modernizing and migrating legacy code, designing systems that don't give up on load :), and building security in from the start.
