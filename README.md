@@ -1,12 +1,10 @@
 # Hi, I'm Usman 👋
 
-Software engineer focused on security, architecture and AI. I'm doing an M.Sc. in Digital Transformation at FH Dortmund, after a B.Tech in Computer Science at SRM Institute of Science and Technology.
+Software engineer focused on security, architecture and AI.
 
-I like modernizing and migrating legacy code, designing systems that hold up under load, and building security in from the start. Most of my recent side projects are multi-agent LLM systems.
+I like modernizing and migrating legacy code, designing systems that don't give up on load :), and building security in from the start.
 
-I've published a [paper in IEEE Xplore](https://ieeexplore.ieee.org/document/10581124) and came second at a JPMorgan Chase hackathon.
-
-[usmanrangrez.dev](https://usmanrangrez.dev) · [LinkedIn](https://linkedin.com/in/usmanrangrez) · usmaanrangrez@gmail.com
+I've published a [paper in IEEE Xplore](https://ieeexplore.ieee.org/document/10581124) on how Cyber-Attack Defense System can be Enhanced by Artificial Intelligence.
 
 ---
 
