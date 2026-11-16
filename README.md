@@ -1,4 +1,15 @@
-## About Me
+<h1 align="center">Usman Rangrez</h1>
+
+<p align="center">Software engineer · security, architecture and AI</p>
+
+<p align="center">
+  <a href="https://usmanrangrez.dev"><img alt="Website" src="https://img.shields.io/badge/usmanrangrez.dev-6366F1?style=flat-square&logo=googlechrome&logoColor=white"></a>
+  <a href="https://linkedin.com/in/usmanrangrez"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-6366F1?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:usmaanrangrez@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-6366F1?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://ieeexplore.ieee.org/document/10581124"><img alt="IEEE paper" src="https://img.shields.io/badge/IEEE-paper-16A34A?style=flat-square&logo=ieee&logoColor=white"></a>
+</p>
+
+## About me
 
 Software engineer focused on security, architecture and AI.
 
@@ -6,67 +17,30 @@ I like modernizing and migrating legacy code, designing systems that don't give 
 
 I've published a [paper in IEEE Xplore](https://ieeexplore.ieee.org/document/10581124) on how Cyber-Attack Defense System can be Enhanced by Artificial Intelligence.
 
----
-
 ## Currently learning
 
 - Advanced system design patterns
 - Cloud orchestration and observability
 - AI integration in enterprise systems
 
----
+## Tech stack
 
-## Tech Stack
+| Area | Tools |
+|---|---|
+| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-1E293B?style=flat-square&logo=typescript&logoColor=3178C6) ![Python](https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=FFD43B) ![JavaScript](https://img.shields.io/badge/JavaScript-1E293B?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Java](https://img.shields.io/badge/Java-1E293B?style=flat-square&logo=openjdk&logoColor=ED8B00) ![C++](https://img.shields.io/badge/C++-1E293B?style=flat-square&logo=cplusplus&logoColor=659AD2) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-1E293B?style=flat-square&logo=nodedotjs&logoColor=339933) ![Express](https://img.shields.io/badge/Express-1E293B?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-1E293B?style=flat-square&logo=fastapi&logoColor=009688) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-1E293B?style=flat-square&logo=react&logoColor=61DAFB) ![Vue](https://img.shields.io/badge/Vue-1E293B?style=flat-square&logo=vuedotjs&logoColor=4FC08D) |
+| **AI** | ![LangChain](https://img.shields.io/badge/LangChain-1E293B?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1E293B?style=flat-square&logo=langgraph&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E293B?style=flat-square&logo=postgresql&logoColor=4169E1) ![MongoDB](https://img.shields.io/badge/MongoDB-1E293B?style=flat-square&logo=mongodb&logoColor=47A248) ![MySQL](https://img.shields.io/badge/MySQL-1E293B?style=flat-square&logo=mysql&logoColor=4479A1) ![Redis](https://img.shields.io/badge/Redis-1E293B?style=flat-square&logo=redis&logoColor=FF4438) |
+| **DevOps & cloud** | ![Docker](https://img.shields.io/badge/Docker-1E293B?style=flat-square&logo=docker&logoColor=2496ED) ![Kubernetes](https://img.shields.io/badge/Kubernetes-1E293B?style=flat-square&logo=kubernetes&logoColor=326CE5) ![AWS](https://img.shields.io/badge/AWS-1E293B?style=flat-square&logo=amazonwebservices&logoColor=FF9900) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1E293B?style=flat-square&logo=githubactions&logoColor=2088FF) ![Git](https://img.shields.io/badge/Git-1E293B?style=flat-square&logo=git&logoColor=F05032) |
+| **Messaging** | ![Kafka](https://img.shields.io/badge/Kafka-1E293B?style=flat-square&logo=apachekafka&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-1E293B?style=flat-square&logo=rabbitmq&logoColor=FF6600) |
 
-### Languages
+## GitHub stats
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### Backend & Frameworks
-
-![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-
-### AI
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
-
-### Databases & Caching
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-
-### DevOps & Infrastructure
-
-![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
-
-### Messaging & Streaming
-
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka)
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
----
-
-## GitHub Stats
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usmanrangrez&theme=tokyonight)](https://github.com/usmanrangrez)
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=usmanrangrez&theme=tokyonight)](https://github.com/usmanrangrez)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=usmanrangrez&theme=tokyonight)](https://github.com/usmanrangrez)
+<p align="center">
+  <img alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usmanrangrez&theme=tokyonight" width="100%">
+</p>
+<p align="center">
+  <img alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=usmanrangrez&theme=tokyonight" width="49%">
+  <img alt="Most commit language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=usmanrangrez&theme=tokyonight" width="49%">
+</p>
